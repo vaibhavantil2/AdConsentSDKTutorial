@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
     private var mRewardedVideoAd: RewardedVideoAd? = null
     private var consentForm: ConsentForm? = null
     private val SHOW_PERSONAL_ADS_KEY = "show.personal.ads.key"
+    private val device_id 
 
     val TAG = "MainActivity"
 
